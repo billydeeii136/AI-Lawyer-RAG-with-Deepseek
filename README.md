@@ -129,3 +129,10 @@ The app is deployed on **Streamlit**! You can check out the live version and exp
   <a href="https://www.linkedin.com/in/abhay-singh-050a5b293/" target="_blank">🔗 LinkedIn</a> |
   <a href="https://x.com/AbhaySingh71711" target="_blank">🐦 Twitter</a>
 </p>
+
+## Harvey Elite Upgrade
+This repository includes a /.harvey hardening profile for secure legal document parsing, case research, and compliance workflows.
+Key files:
+- .harvey/HARVEY_ELITE_PROFILE.yaml
+- .harvey/COMPLIANCE_CONTROLS.md
+- .harvey/CONNECTORS.json
